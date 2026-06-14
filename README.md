@@ -1,2 +1,2 @@
 # serpentine-spark
-A Python project created with Claude
+A Python project created to replicate Pac-Man
